@@ -2,9 +2,9 @@
 This Python script utilizes Playwright and BeautifulSoup to scrape paginated data from a CMS website that contains diagnosis codes data. The script navigates through multiple pages, extracts information from an HTML table, and stores the collected data in a CSV file.
 
 ## Requirements
-Python 3.x
-Playwright (installed via pip install playwright)
-BeautifulSoup (installed via pip install beautifulsoup4)
+- Python 3.x
+- Playwright (installed via pip install playwright)
+- BeautifulSoup (installed via pip install beautifulsoup4)
 
 ## Usage
 Install the required dependencies mentioned above.
